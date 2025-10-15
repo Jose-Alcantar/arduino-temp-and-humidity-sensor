@@ -24,7 +24,7 @@ A real-time environmental monitoring project using Arduino UNO R4 Minima, a DHT1
 - DS1307 RTC Module
 - 20x4 I2C LCD
 - Breadboard + jumper wires
-- MicroSD card module (optional)
+- MicroSD card module
 - MicroSD card
 - USB-C cable for power and upload
 
