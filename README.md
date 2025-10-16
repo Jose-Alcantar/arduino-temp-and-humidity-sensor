@@ -10,7 +10,7 @@ A real-time environmental monitoring project using Arduino UNO R4 Minima, a DHT1
 ---
 
 ## Features
-- Real-time clock using DS1307 RTC
+- Real-time clock using DS3231 RTC
 - Live temperature and humidity display with DHT11
 - 20x4 I2C LCD display
 - SD card logging
@@ -21,7 +21,7 @@ A real-time environmental monitoring project using Arduino UNO R4 Minima, a DHT1
 ## Components Used
 - Arduino UNO R4 Minima
 - DHT11 Sensor
-- DS1307 RTC Module
+- DS3231 RTC Module
 - 20x4 I2C LCD
 - Breadboard + jumper wires
 - MicroSD card module
